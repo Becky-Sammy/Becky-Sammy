@@ -4,7 +4,7 @@
 -  Data analysis/wrangling skill using MS.Excel/SQL
 -  Data visualization and storytelling using Power BI  
 - 📫 sonnattiel@gmail.com
-- ⚡ I love to see my final product after working with data doing what it suppose to.
+- ⚡ I love to see my final product after working with data doing what it suppose to, 'my new insights telling a story'.
 
 <!---
 Becky-Sammy/Becky-Sammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
