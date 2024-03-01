@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning the necessary skill to make me better in interplating any given data
 -  Data analysis/wrangling skill using MS.Excel/SQL
 -  Data visualization and storytelling using Power BI  
-- 📫 sonnattiel@gmail.com
+- 📫 sonnattie1@gmail.com
 - ⚡ I love to see my final product after working with data doing what it suppose to, 'my new insights telling a story'.
 
 <!---
